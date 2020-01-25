@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.section {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -162,15 +162,15 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 50px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 50px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 50px;
 }
 
 .search-engine-optimization h2 {
