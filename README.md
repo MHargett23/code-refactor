@@ -1,6 +1,6 @@
 # code-refactor
 
-![Code Refactor screen shot](images/screenshot.png)
+![Code Refactor screen shot](assets/images/screenshot.png)
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
